@@ -4,29 +4,9 @@
 
 Building intelligent systems with a focus on machine learning, AI engineering, cloud platforms, and research-oriented development.
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. My interests include machine learning, deep learning, continual learning, intelligent agents, AI for cybersecurity, LLM applications, and MLOps.
-
 ---
 
-## 01 — WHO I AM
-
-I enjoy turning complex technical ideas into practical software and intelligent systems.
-
-My work focuses on combining:
-
-* Machine Learning
-* Deep Learning
-* Generative AI
-* AI Agents
-* Cloud & Infrastructure
-* MLOps
-* Data Analysis
-
-I am particularly interested in building systems that are not only intelligent, but also reliable, observable, and practical to deploy.
-
----
-
-## 02 — RESEARCH & TECHNICAL INTERESTS
+## 01 — RESEARCH & TECHNICAL INTERESTS
 
 * Machine Learning & Deep Learning
 * Continual Learning
@@ -39,7 +19,7 @@ I am particularly interested in building systems that are not only intelligent, 
 
 ---
 
-## 03 — TECHNICAL SKILLS
+## 02 — TECHNICAL SKILLS
 
 **Languages**
 
@@ -71,7 +51,7 @@ Git · GitHub · VS Code
 
 ---
 
-## 04 — SELECTED BUILDS
+## 03 — SELECTED BUILDS
 
 <table>
 <tr>
@@ -129,36 +109,32 @@ Machine learning-based supplier recommendation system that ranks suppliers using
 
 ---
 
-## 05 — CURRENT FOCUS
+## 04 — CURRENT FOCUS
 
-Currently focused on building advanced AI/ML projects with an emphasis on:
+Currently focused on:
 
-* Research-driven experimentation
+* Research-driven AI/ML experimentation
 * Production-oriented AI systems
 * Reliable and explainable machine learning
-* AI agents and intelligent automation
+* Intelligent agents and automation
 * Cloud-native AI infrastructure
 * MLOps and observability
 
 ---
 
-## 06 — EDUCATION
+## 05 — EDUCATION
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
 
 ---
 
-## 07 — WHAT I AM BUILDING TOWARD
+## 06 — ENGINEERING DIRECTION
 
-My long-term goal is to build advanced AI systems that combine:
-
-**Machine Learning + Intelligent Agents + Cloud Infrastructure + Reliable Engineering**
-
-I am continuously exploring new approaches in AI, experimenting with real-world systems, and improving my ability to design, implement, evaluate, and deploy intelligent applications.
+**Machine Learning + Intelligent Systems + Cloud Infrastructure + Reliable Engineering**
 
 ---
 
-## 08 — CONNECT
+## 07 — CONNECT
 
 [LinkedIn](https://www.linkedin.com/in/abdullazohaib) · [GitHub](https://github.com/abdullazohaib)
 
