@@ -1,87 +1,166 @@
 # Abdulla Zohaib
 
-### CSE (AI & ML) Student | Machine Learning | Deep Learning | AI Systems
+### CSE (AI & ML) Student · Machine Learning · Deep Learning · AI Systems
 
-I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, focused on building intelligent, reliable, and production-oriented AI systems.
+Building intelligent systems with a focus on machine learning, AI engineering, cloud platforms, and research-oriented development.
 
-My interests include machine learning, deep learning, intelligent agents, AI for cybersecurity, MLOps, and research-oriented AI development.
-
----
-
-## Research & Technical Interests
-
-- Machine Learning & Deep Learning
-- Continual Learning
-- Generative AI & LLM Applications
-- AI Agents & Intelligent Systems
-- AI for Cybersecurity
-- MLOps & AI Infrastructure
-- Data Analysis & Experimentation
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning. My interests include machine learning, deep learning, continual learning, intelligent agents, AI for cybersecurity, LLM applications, and MLOps.
 
 ---
 
-## Featured Projects
+## 01 — WHO I AM
 
-### HealOps AI
+I enjoy turning complex technical ideas into practical software and intelligent systems.
 
-AI-powered incident response and observability platform designed to detect anomalies, analyze system logs, identify potential root causes, and recommend recovery actions.
+My work focuses on combining:
 
-**Tech:** Python, FastAPI, LangGraph, Ollama, Prometheus, Grafana, Kubernetes, Docker
+* Machine Learning
+* Deep Learning
+* Generative AI
+* AI Agents
+* Cloud & Infrastructure
+* MLOps
+* Data Analysis
+
+I am particularly interested in building systems that are not only intelligent, but also reliable, observable, and practical to deploy.
+
+---
+
+## 02 — RESEARCH & TECHNICAL INTERESTS
+
+* Machine Learning & Deep Learning
+* Continual Learning
+* Generative AI & LLM Applications
+* AI Agents & Intelligent Systems
+* AI for Cybersecurity
+* Cloud & AI Infrastructure
+* MLOps & Observability
+* Data Analysis & Experimentation
+
+---
+
+## 03 — TECHNICAL SKILLS
+
+**Languages**
+
+Python · Java · C++
+
+**Machine Learning**
+
+Scikit-learn · TensorFlow · Pandas · NumPy
+
+**AI**
+
+Deep Learning · LLM Applications · Generative AI · AI Agents
+
+**Backend**
+
+FastAPI · REST APIs
+
+**Cloud & MLOps**
+
+Docker · Kubernetes · Prometheus · Grafana
+
+**Data**
+
+SQL · Data Analysis · Data Visualization
+
+**Tools**
+
+Git · GitHub · VS Code
+
+---
+
+## 04 — SELECTED BUILDS
+
+<table>
+<tr>
+<td width="50%">
 
 ### CloudSentinel AI
 
-AI-powered cloud incident detection and root-cause analysis platform with observability and controlled Kubernetes response capabilities.
+AI-powered cloud incident response and observability platform for anomaly detection, root-cause analysis, and controlled Kubernetes remediation.
 
-**Tech:** Python, FastAPI, AI/LLM, Kubernetes, Docker, Monitoring
+**Python · FastAPI · LangGraph · Ollama · Kubernetes**
 
-### Supplier Recommendation System
+[Explore Repository](https://github.com/abdullazohaib/CloudSentinel-AI)
 
-Machine learning-based system for recommending suitable suppliers using multiple business criteria.
+</td>
 
-**Tech:** Python, Machine Learning, HTML, Data Analysis
+<td width="50%">
+
+### HealOps AI
+
+AI-powered incident response platform for log anomaly detection, LLM-assisted root-cause analysis, recovery recommendations, and observability.
+
+**Python · FastAPI · LangGraph · Ollama · Prometheus**
+
+[Explore Repository](https://github.com/abdullazohaib/healops-ai)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ApexAI
+
+Multi-model AI response comparison platform that evaluates and ranks responses using rule-based scoring and response synthesis.
+
+**Python · AI · LLM · Response Evaluation**
+
+[Explore Repository](https://github.com/abdullazohaib/Apexai)
+
+</td>
+
+<td width="50%">
+
+### Supplier Recommendation
+
+Machine learning-based supplier recommendation system that ranks suppliers using price, quality, delivery time, reliability, ratings, and past performance.
+
+**Python · Machine Learning · Data Analysis**
+
+[Explore Repository](https://github.com/abdullazohaib/supplier-recommendation)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## 05 — CURRENT FOCUS
 
-**Languages:** Python, Java, C++
+Currently focused on building advanced AI/ML projects with an emphasis on:
 
-**Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy
-
-**AI:** Deep Learning, LLM Applications, Generative AI, AI Agents
-
-**Backend:** FastAPI, REST APIs
-
-**DevOps & MLOps:** Docker, Kubernetes, Prometheus, Grafana
-
-**Data:** SQL, Data Analysis, Data Visualization
-
-**Tools:** Git, GitHub, VS Code
+* Research-driven experimentation
+* Production-oriented AI systems
+* Reliable and explainable machine learning
+* AI agents and intelligent automation
+* Cloud-native AI infrastructure
+* MLOps and observability
 
 ---
 
-## Current Focus
-
-Building advanced AI/ML projects with an emphasis on:
-
-- Research-driven experimentation
-- Production-oriented AI systems
-- Reliable and explainable machine learning
-- AI agents and intelligent automation
-- MLOps and scalable AI infrastructure
-
----
-
-## Education
+## 06 — EDUCATION
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
 
 ---
 
-## Connect
+## 07 — WHAT I AM BUILDING TOWARD
 
-- [LinkedIn](https://www.linkedin.com/in/abdullazohaib)
-- [GitHub](https://github.com/abdullazohaib)
+My long-term goal is to build advanced AI systems that combine:
+
+**Machine Learning + Intelligent Agents + Cloud Infrastructure + Reliable Engineering**
+
+I am continuously exploring new approaches in AI, experimenting with real-world systems, and improving my ability to design, implement, evaluate, and deploy intelligent applications.
+
+---
+
+## 08 — CONNECT
+
+[LinkedIn](https://www.linkedin.com/in/abdullazohaib) · [GitHub](https://github.com/abdullazohaib)
 
 ---
 
