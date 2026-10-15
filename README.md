@@ -1,37 +1,109 @@
 ![Profile Banner](https://github.com/abdullazohaib/abdullazohaib/blob/main/Beige%20Modern%20Professional%20General%20Linkedin%20Banner.png)
-<h1 align="center">Hi 👋, I'm Abdulla Zohaib</h1>
-<h3 align="center">CSE (AI & ML) Student | Machine Learning | Deep Learning | AI Systems | Research</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullazohaib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullazohaib" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=190&section=header&text=Abdulla%20Zohaib&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20(AI%20%26%20ML)%20Student%20%C2%B7%20Building%20AI%20Systems&descAlignY=58&descSize=17" alt="Abdulla Zohaib banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullazohaib" alt="abdullazohaib" /></a> </p>
+<a href="https://github.com/abdullazohaib"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Deep+Learning;Generative+AI+%C2%B7+LLM+Applications;AI+Agents+%C2%B7+MLOps+%C2%B7+Research" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **GoViral**
+<br/>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, LLM Applications, AI Agents, MLOps**
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdullazohaib.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white)](https://abdullazohaib.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullazohaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullazohaib)
+[![Email](https://img.shields.io/badge/Email-abdullazohaib.work@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullazohaib.work@gmail.com)
 
-- I'm also building [CloudSentinel AI](https://github.com/abdullazohaib/CloudSentinel-AI)
+![Profile views](https://komarev.com/ghpvc/?username=abdullazohaib&label=Profile%20views&color=0e75b6&style=flat)
 
-- I'm interested in developing [AI-Powered Digital Twin — TwinMind AI](https://github.com/abdullazohaib/twinmind-ai)
+</div>
 
-- 👨‍💻 All of my projects are available at [abdullazohaib.github.io](abdullazohaib.github.io)
+---
 
-- GitHub profile [https://linkedin.com/in/abdullazohaib](https://linkedin.com/in/abdullazohaib)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Generative AI, LLM Applications, AI Agents, FastAPI, AI Incident Response, Cloud Monitoring, MLOps, and Building AI-Powered Applications.**
+I'm a CSE (AI & ML) student who enjoys turning machine learning research into working, production-minded systems — from model experiments to APIs, monitoring, and deployment.
 
-- 📫 How to reach me **abdullazohaib.work@gmail.com**
+| | |
+|---|---|
+| 🔭 **Working on** | **GoViral** |
+| 🌱 **Learning** | Machine Learning · Deep Learning · Generative AI · LLM Applications · AI Agents · MLOps |
+| 🏗️ **Building** | [CloudSentinel AI](https://github.com/abdullazohaib/CloudSentinel-AI) |
+| 💡 **Exploring** | [TwinMind AI](https://github.com/abdullazohaib/twinmind-ai), an AI-powered digital twin |
+| 💬 **Ask me about** | FastAPI · AI Incident Response · Cloud Monitoring · MLOps · Building AI-Powered Apps |
 
-- LinkedIn profile **https://linkedin.com/in/abdullazohaib**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/abdullazohaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/abdullazohaib" height="30" width="40" /></a>
-</p>
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ <a href="https://github.com/abdullazohaib/CloudSentinel-AI">CloudSentinel AI</a></h3>
+      <p>AI-driven cloud monitoring and incident response — detect issues early and help resolve them faster.</p>
+      <sub><code>AI Incident Response</code> · <code>Cloud Monitoring</code> · <code>FastAPI</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/abdullazohaib/twinmind-ai">TwinMind AI</a></h3>
+      <p>An AI-powered digital twin that learns from you and acts as your personal intelligent counterpart.</p>
+      <sub><code>Generative AI</code> · <code>LLM Applications</code> · <code>AI Agents</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>More projects →</b> <a href="https://abdullazohaib.github.io">abdullazohaib.github.io</a>
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullazohaib&show_icons=true&locale=en&layout=compact" alt="abdullazohaib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullazohaib&show_icons=true&locale=en" alt="abdullazohaib" /></p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=py,cpp,java,dart,html,css&theme=dark)
+
+**AI / ML & Data**
+
+![ML](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas&theme=dark)
+
+**Backend & Frontend**
+
+![Web](https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs,react,flutter&theme=dark)
+
+**Cloud, DevOps & Monitoring**
+
+![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,linux,git&theme=dark)
+
+**Databases & Tools**
+
+![DB](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,postman&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/abdullazohaib">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullazohaib&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+</a>
+<a href="https://github.com/abdullazohaib">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullazohaib&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullazohaib&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to conversations about ML, AI systems, research, and collaboration.
+
+📫 **Email:** [abdullazohaib.work@gmail.com](mailto:abdullazohaib.work@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/abdullazohaib](https://linkedin.com/in/abdullazohaib)
+🌐 **Portfolio:** [abdullazohaib.github.io](https://abdullazohaib.github.io)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
