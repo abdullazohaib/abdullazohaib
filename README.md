@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/abdullazohaib/abdullazohaib/blob/main/Beige%20Modern%20Professional%20General%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdulla Zohaib</h1>
 <h3 align="center">CSE (AI & ML) Student | Machine Learning | Deep Learning | AI Systems | Research</h3>
 
